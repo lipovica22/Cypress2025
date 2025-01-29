@@ -1,0 +1,9 @@
+{
+  "cucumberData": {
+      "createArticleTitle": "Cucumber post",
+      "createWhatIsThisArticleAbout": "zavrsni zadatak",
+      "createWriteYourArticle": "test",
+      "createEnterTags": "cucumber",
+      "editArticleTitle": "Cucumber post - edit"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "assertCrud": {
+        "postLoginStatus": 200,
+        "postStatus": 201,
+        "getStatus": 200,
+        "putStatus": 200,
+        "deleteStatus": 204,
+        "title": "Savezna Republika Nemačka"
+    }
+}

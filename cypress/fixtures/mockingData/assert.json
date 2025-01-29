@@ -1,0 +1,8 @@
+{
+    "assertMockingData": {
+        "firstArticle": "TREĆI post",
+        "secondArticle": "drugi post",
+        "thirdArticle": "PRVI POST",
+        "totalNumberOfArticles": 3
+    }
+}

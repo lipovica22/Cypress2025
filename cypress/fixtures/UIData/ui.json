@@ -1,0 +1,12 @@
+{
+    "dataForLogin": {
+        "errorMessage": "email or password is invalid",
+        "color": "rgb(184, 92, 92)",
+        "attribute": "be.disabled",
+        "withoutCredentialEmail": "email",
+        "withoutCredentialPassword": "password",
+        "withoutCredentialEmailAndPassword": "both",
+        "wrongEmail": "cypress123!@gmail.com",
+        "wrongPassword": "cypress12345"
+    }
+}

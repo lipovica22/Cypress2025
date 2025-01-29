@@ -1,0 +1,63 @@
+{
+    "articles": [
+        
+        {
+            "slug": "TRECI-post-18974",
+            "title": "TREĆI post",
+            "description": "cypress",
+            "body": "test",
+            "tagList": [
+                "tag test 3"
+            ],
+            "createdAt": "2024-12-22T10:59:52.966Z",
+            "updatedAt": "2024-12-29T11:33:16.681Z",
+            "favorited": false,
+            "favoritesCount": 1,
+            "author": {
+                "username": "SrdjanT",
+                "bio": null,
+                "image": "https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg",
+                "following": false
+            }
+        },
+        {
+            "slug": "drugi-post-18974",
+            "title": "drugi post",
+            "description": "cypress",
+            "body": "test",
+            "tagList": [
+                "tag test 2"
+            ],
+            "createdAt": "2024-12-22T10:59:52.382Z",
+            "updatedAt": "2024-12-22T10:59:52.382Z",
+            "favorited": false,
+            "favoritesCount": 1,
+            "author": {
+                "username": "SrdjanT",
+                "bio": null,
+                "image": "https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg",
+                "following": false
+            }
+        },
+        {
+            "slug": "PRVI-POST-18974",
+            "title": "PRVI POST",
+            "description": "cypress",
+            "body": "test",
+            "tagList": [
+                "tag test 1"
+            ],
+            "createdAt": "2024-12-22T10:59:51.794Z",
+            "updatedAt": "2024-12-22T10:59:51.794Z",
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "SrdjanT",
+                "bio": null,
+                "image": "https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 3
+}
